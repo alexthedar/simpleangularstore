@@ -30,10 +30,24 @@
   padding: 0;
 }
 
+.img-full{
+  width: 100%;
+}
+
 .templates {
   text-align: center;
 }
 
 .templates img{
-  width: 100%;
+  width: 70%;
+}
+
+.templates a{
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+.templates .col-md-4{
+  margin-bottom: 20px;
 }
